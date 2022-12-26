@@ -1,3 +1,5 @@
+// time and space complexity boths are O(n)
+
 function findMaxChar(str) {
   const obj = {};
   let max = 0,
